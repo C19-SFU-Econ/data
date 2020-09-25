@@ -8,9 +8,6 @@ Terms of use
 ------------
 This data repository is provided to the public strictly for educational and academic research purposes.
 
-Citation
----------
-Karaivanov, Lu, Shigeoka, Chen and Pamplona, Simon Fraser University Department of Economics COVID-19 Research Group, September 2020
 
 Credits
 --------
