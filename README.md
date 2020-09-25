@@ -11,3 +11,5 @@ Credits
 [Government of Canada Public Health](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 
 [Government of Canada Weather Data](https://climate.weather.gc.ca/historical_data/search_historic_data_e.html)
+
+[YouGov COVID-19 Tracker](https://github.com/YouGov-Data/covid-19-tracker}
