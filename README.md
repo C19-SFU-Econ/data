@@ -4,8 +4,8 @@
 
 (all data will be posted over the next days, currently being formatted/cleaned)
 
-Credits:
-----------------
+Credits
+--------
 [Google LLC "Google COVID-19 Community Mobility Reports"](https://www.google.com/covid19/mobility/)
 
 [Government of Canada Public Health](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
