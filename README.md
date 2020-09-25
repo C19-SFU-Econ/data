@@ -12,4 +12,4 @@ Credits
 
 [Government of Canada Weather Data](https://climate.weather.gc.ca/historical_data/search_historic_data_e.html)
 
-[YouGov COVID-19 Tracker](https://github.com/YouGov-Data/covid-19-tracker}
+[YouGov COVID-19 Tracker](https://github.com/YouGov-Data/covid-19-tracker)
