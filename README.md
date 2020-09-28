@@ -4,7 +4,7 @@
 
 Terms of use
 ------------
-This data repository is provided to the public strictly for educational and academic research purposes. Please cite as:
+This data repository is provided to the public strictly for educational and academic research purposes.\\ Please cite as:
 Karaivanov, Lu, Shigeoka, Chen and Pamplona (2020), SFU Economics COVID-19 Research Data, github.com/C19-SFU-Econ
 
 # Data files (in alphabetical order)
