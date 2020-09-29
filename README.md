@@ -9,7 +9,7 @@ Please cite as: Karaivanov, Lu, Shigeoka, Chen and Pamplona (2020), SFU Economic
 ----------------------------------------
 ## Data files (in alphabetical order)
 1. CAN_Global_Mobility_Report.csv
-    - extract from Google Global Mobility Community trends for Canadian provinces, Feb. 15 to Aug. 13, 2020.  
+    - extract from Google Global Mobility Community trends for Canadian provinces  
 2. Data notes and sources - COVID-19 Cases Deaths Tests.xlsx
     - description file for the COVID-19 data  
 3. Data_cases.csv
