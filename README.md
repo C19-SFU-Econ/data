@@ -1,5 +1,5 @@
 # Data used in 
-## Karaivanov, Lu, Shigeoka, Chen and Pamplona (2020),
+## Karaivanov, Lu, Shigeoka, Chen and Pamplona (2020)  
 ## ["Face Masks, Public Policies and Slowing the Spread of COVID-19: Evidence from Canada"](https://www.medrxiv.org/content/10.1101/2020.09.24.20201178v1.full.pdf) 
 
 Terms of use
