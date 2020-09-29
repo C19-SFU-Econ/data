@@ -24,10 +24,10 @@ Please cite as: Karaivanov, Lu, Shigeoka, Chen and Pamplona (2020), SFU Economic
     - COVID-19 deaths data for the 10 Canadian provinces (official, incl. ex-post revisions up to Aug. 20)  
 8. Data_weather.xlsx                                             
     - weather data for the major city in each province (see paper, section 4.3)  
-9. ON_business_gathering_values.csv
+9. ON_Global_Mobility_Report.csv                                 
+    - Ontario districts Google Global Mobility Community trends    
+10. ON_business_gathering_values.csv
     - numerical values for the business/gathering policy aggregate in Ontario (based on re-opening stage)
-10. ON_Global_Mobility_Report.csv                                 
-    - Ontario districts Google Global Mobility Community trends  
 11. ON_casesPHU.csv                                               
     - Ontario COVID-19 cases by PHU and date  
 12. ON_masksPHU.csv                                               
