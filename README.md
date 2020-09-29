@@ -31,10 +31,6 @@ Please cite as: Karaivanov, Lu, Shigeoka, Chen and Pamplona (2020), SFU Economic
 11. ON_masksPHU.csv                                               
     - Ontario mask mandates by PHU and date  
 
-Terms of use
-------------
-This data repository is provided to the public strictly for educational and academic research purposes.
-
 
 Credits
 --------
