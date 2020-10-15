@@ -21,7 +21,7 @@ Please cite as: Karaivanov, Lu, Shigeoka, Chen and Pamplona (2020), SFU Economic
 6. Data_policies.xlsx                                            
     - policy indicators numerical values and sources (see paper, Table C1)  
 7. Data_tests.csv                                                
-    - COVID-19 deaths data for the 10 Canadian provinces (official sources, including ex-post revisions up to Aug. 20, 2020)  
+    - COVID-19 test numbers data for the 10 Canadian provinces (official sources, including ex-post revisions up to Aug. 20, 2020)  
 8. Data_weather.xlsx                                             
     - weather data for the major city in each province (see paper, section 4.3)  
 9. ON_Global_Mobility_Report.csv                                 
