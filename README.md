@@ -27,7 +27,7 @@ Please cite as: Karaivanov, Lu, Shigeoka, Chen and Pamplona (2020), SFU Economic
 9. ON_Global_Mobility_Report.csv                                 
     - Ontario districts Google Global Mobility Community trends, downloaded 08/20/2020    
 10. ON_business_gathering_values.csv
-    - numerical values for the business/gathering policy aggregate in Ontario (based on re-opening stage)
+    - numerical values for the business/gathering policy aggregate in Ontario, based on re-opening stage
 11. ON_casesPHU.csv                                               
     - Ontario COVID-19 cases by PHU and date (official source, including ex-post revisions up to Aug. 20, 2020)
 12. ON_masksPHU.csv                                               
