@@ -7,7 +7,7 @@ This data repository is provided to the public strictly for educational and acad
 Please cite as: Karaivanov, Lu, Shigeoka, Chen and Pamplona (2020), SFU Economics COVID-19 Research Data, github.com/C19-SFU-Econ.
 
 ----------------------------------------
-## Data files
+## Data files description
 1. CAN_Global_Mobility_Report.csv
     - extract from Google Global Mobility Community trends for Canadian provinces, downloaded 08/20/2020
 2. Data notes and sources - COVID-19 Cases Deaths Tests.xlsx
