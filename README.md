@@ -46,6 +46,7 @@ Credits
 
 [ProQuest Canadian Newsstream](https://about.proquest.com/products-services/canadian_newsstand.html)
 
+---------------------------------------------------------
 **Data used in October 2020 version of the paper available here:
 
 https://github.com/C19-SFU-Econ/data_old
