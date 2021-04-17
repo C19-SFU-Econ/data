@@ -1,5 +1,3 @@
-# DATA being updated
-================================
 # Data used in 
 ## Karaivanov, Lu, Shigeoka, Chen and Pamplona (2021)  
 # ["Face Masks, Public Policies and Slowing the Spread of COVID-19: Evidence from Canada"](https://www.medrxiv.org/content/10.1101/2020.09.24.20201178v3.full.pdf) 
@@ -47,3 +45,6 @@ Credits
 [YouGov COVID-19 Tracker](https://github.com/YouGov-Data/covid-19-tracker)
 
 [ProQuest Canadian Newsstream](https://about.proquest.com/products-services/canadian_newsstand.html)
+
+##Data used in October 2020 version of the paper available here:
+https://github.com/C19-SFU-Econ/data_old
