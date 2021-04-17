@@ -13,7 +13,7 @@ Please cite as: Karaivanov, Lu, Shigeoka, Chen and Pamplona (2020), SFU Economic
 1. CAN_Global_Mobility_Report.csv
     - extract from Google Global Mobility Community trends for Canadian provinces, downloaded 08/20/2020
 2. Data notes and sources - COVID-19 Cases Deaths Tests.xlsx
-    - description file for the COVID-19 data  
+    - description file for the COVID-19 data (please also see Appendix D in the paper for updated sources)
 3. Data_cases.csv
     - COVID-19 cases data for the 10 Canadian provinces (official sources, including ex-post revisions up to Aug. 20, 2020)  
 4. Data_deaths.csv                                               
