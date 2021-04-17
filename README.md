@@ -4,32 +4,32 @@
 
 ### Terms of use
 This data repository is provided to the public strictly for educational and academic research purposes.  
-Please cite as: Karaivanov, Lu, Shigeoka, Chen and Pamplona (2020), SFU Economics COVID-19 Research Data, github.com/C19-SFU-Econ.
+Please cite as: Karaivanov, Lu, Shigeoka, Chen and Pamplona (2021), SFU Economics COVID-19 Research Data, github.com/C19-SFU-Econ.
 
 ----------------------------------------
 ## Data files description
 1. CAN_Global_Mobility_Report.csv
-    - extract from Google Global Mobility Community trends for Canadian provinces, downloaded 08/20/2020
+    - extract from Google Global Mobility Community trends for Canadian provinces
 2. Data notes and sources - COVID-19 Cases Deaths Tests.xlsx
     - description file for the COVID-19 data (please also see Appendix D in the paper for updated sources)
 3. Data_cases.csv
-    - COVID-19 cases data for the 10 Canadian provinces (official sources, including ex-post revisions up to Aug. 20, 2020)  
+    - COVID-19 cases data for the 10 Canadian provinces (official sources, including ex-post revisions up to Nov. 30, 2020)  
 4. Data_deaths.csv                                               
-    - COVID-19 deaths data for the 10 Canadian provinces (official sources, including ex-post revisions up to Aug. 20, 2020)  
+    - COVID-19 deaths data for the 10 Canadian provinces (official sources, including ex-post revisions up to Nov. 30, 2020)  
 5. Data_news.csv                                                 
-    - Newsstream search result counts by date (see paper, section 4.3)  
+    - Newsstream search result counts by date (see paper)  
 6. Data_policies.xlsx                                            
-    - policy indicators numerical values and sources (see paper, Table C1)  
+    - policy indicators numerical values and sources (see paper, Table D1)  
 7. Data_tests.csv                                                
-    - COVID-19 test numbers data for the 10 Canadian provinces (official sources, including ex-post revisions up to Aug. 20, 2020)  
+    - COVID-19 test numbers data for the 10 Canadian provinces (official sources, including ex-post revisions up to Nov. 30, 2020)  
 8. Data_weather.xlsx                                             
-    - weather data for the major city in each province (see paper, section 4.3)  
+    - weather data for the major city in each province (see paper)  
 9. ON_Global_Mobility_Report.csv                                 
-    - Ontario districts Google Global Mobility Community trends, downloaded 08/20/2020    
+    - Ontario districts Google Global Mobility Community trends    
 10. ON_business_gathering_values.csv
-    - numerical values for the business/gathering policy aggregate in Ontario, based on re-opening stage
+    - numerical values for the business/gathering policy aggregate in Ontario (based on re-opening stage and COVID-19 framework level)
 11. ON_casesPHU.csv                                               
-    - Ontario COVID-19 cases by PHU and date (official source, including ex-post revisions up to Aug. 20, 2020)
+    - Ontario COVID-19 cases by PHU and date (official source, including ex-post revisions up to Nov. 30, 2020)
 12. ON_masksPHU.csv                                               
     - Ontario mask mandates by PHU and date  
 
