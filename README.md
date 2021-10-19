@@ -2,7 +2,7 @@
 ## Karaivanov, Lu, Shigeoka, Chen and Pamplona (2021)  
 # ["Face Masks, Public Policies and Slowing the Spread of COVID-19: Evidence from Canada"](https://www.medrxiv.org/content/10.1101/2020.09.24.20201178v3.full.pdf) 
 ### published in [Journal of Health Economics 78(102475)](https://doi.org/10.1016/j.jhealeco.2021.102475)
-\hline
+
 ### Terms of use
 This data repository is provided to the public strictly for educational and academic research purposes.  
 Please cite as: Karaivanov, Lu, Shigeoka, Chen and Pamplona (2021), SFU Economics COVID-19 Research Data, github.com/C19-SFU-Econ.
